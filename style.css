@@ -25,7 +25,7 @@ body::before {
   width: 100%;
   z-index: -1;
   background: var(--color-darkblue);
-  background-image: url(https://cdn.glitch.com/6537508a-18e6-42a0-9e0e-efe6efcf5773%2Fhclass-600x400.jpg?v=1621089081367);
+  background-image: url(hclass-600x400.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
